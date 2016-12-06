@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("first commit");
 		System.out.println("first commit");
 		System.out.println("second commit");
+System.out.println("second commit");
 	}
 }
